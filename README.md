@@ -1,6 +1,6 @@
-![Test library workflow status](https://github.com/tcort/markdown-link-check/workflows/Test%20library/badge.svg)
-
 # markdown-link-check
+
+![Test library workflow status](https://github.com/tcort/markdown-link-check/workflows/Test%20library/badge.svg)
 
 Extracts links from markdown texts and checks whether each link is
 alive (`200 OK`) or dead. `mailto:` links are validated with
